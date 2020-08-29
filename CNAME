@@ -1,8 +1,7 @@
-vksingh.me
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Edu Hub</title>
 <style>
 body {
   background-color: black;
@@ -13,9 +12,9 @@ body {
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<img src="avatar.png" alt="Avatar" style="width:200px">
+<h1>Educational Assessment</h1>
+<p>Let us start and explain.</p>
+
 
 </body>
 </html> 
